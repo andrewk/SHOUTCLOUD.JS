@@ -1,5 +1,5 @@
 {
-  "name": "SHOUTCLOUD.JS",
+  "name": "shoutcloud",
   "version": "0.0.0",
   "description": "SHOUTCLOUD.IO CLIENT LIBRARY.",
   "main": "index.js",
