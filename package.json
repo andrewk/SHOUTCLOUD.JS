@@ -1,0 +1,24 @@
+{
+  "name": "SHOUTCLOUD.JS",
+  "version": "0.0.0",
+  "description": "SHOUTCLOUD.IO CLIENT LIBRARY.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrewk/SHOUTCLOUD.JS.git"
+  },
+  "keywords": [
+    "SHOUTCLOUD",
+    "webscale",
+    "UPPERCASE"
+  ],
+  "author": "Andrew Krespanis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewk/SHOUTCLOUD.JS/issues"
+  },
+  "homepage": "https://github.com/andrewk/SHOUTCLOUD.JS"
+}
